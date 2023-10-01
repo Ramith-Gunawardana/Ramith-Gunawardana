@@ -14,6 +14,7 @@
 
 ## Support me:
 <p><a href="https://www.buymeacoffee.com/ramithgunawardana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ramithgunawardana" /></a></p><br><br>
+<p></p>
 
 [![An image of @ramithgunawardana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramithgunawardana)](https://holopin.io/@ramithgunawardana)
 
