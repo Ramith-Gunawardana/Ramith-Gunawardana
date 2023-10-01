@@ -14,7 +14,9 @@
 
 ## Support me:
 <p><a href="https://www.buymeacoffee.com/ramithgunawardana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ramithgunawardana" /></a></p><br><br>
-<!-- [![An image of @ramithgunawardana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramithgunawardana)](https://holopin.io/@ramithgunawardana) -->
+
+[![An image of @ramithgunawardana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramithgunawardana)](https://holopin.io/@ramithgunawardana)
+
 <img width=100% title="^_^" alt="^_^" target ="https://ramith-gunawardana.github.io/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling&fontAlignY=85"/>
 
 <!--
