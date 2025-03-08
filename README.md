@@ -13,20 +13,19 @@
 
 ## Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/ramith-gunawardana" target="_blank">
+  <a href="https://www.linkedin.com/in/ramith-gunawardana" target="_blank"  color: #4493f800;">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt=""
     />
   </a>
-  <img width="12" />
-  <a href="https://stackoverflow.com/users/22379589" target="_blank">
+  <img width="1" />
+  <a href="https://stackoverflow.com/users/22379589" target="_blank" color: #4493f800;">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow"
     />
   </a>
 </div>
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramith-gunawardana&label=Profile%20views&color=0e75b6&style=flat" alt="ramith-gunawardana" /> </p>
-
+<br>
 ^_^
