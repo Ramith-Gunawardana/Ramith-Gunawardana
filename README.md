@@ -8,92 +8,52 @@
 
 ## Languages and Tools:
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,java,html,css,js,php,react,nextjs,ts,tailwind,express,nodejs,mongodb,mysql,sqlite,sqlserver,selenium,figma,canva,py,jupyter,scikitlearn,arduino,cpp,aws,azure,gcp,vercel,postman,git,bash,cloudflare,docker" />
-</div>
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=php" alt="php logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="express logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="sqlserver logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="scikitlearn logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=dark" alt="flutter logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart&theme=dark" alt="dart logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" alt="firebase logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="java logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark" alt="html5 logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark" alt="css3 logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" alt="javascript logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php&theme=dark" alt="php logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="react logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs&theme=dark" alt="nextjs logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" alt="typescript logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" alt="tailwindcss logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark" alt="express logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" alt="nodejs logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" alt="mongodb logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="mysql logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark" alt="sqlite logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" alt="sqlserver logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=dark" alt="selenium logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" alt="canva logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" alt="figma logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" alt="python logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="jupyter logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark" alt="scikitlearn logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=dark" alt="arduino logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark" alt="cplusplus logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark" alt="amazonwebservices logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark" alt="azure logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" alt="googlecloud logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" alt="vercel logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="postman logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="git logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark" alt="bash logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare&theme=dark" alt="cloudflare logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" alt="docker logo" />
 </div>
 
 
 
 ## Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/ramith-gunawardana" target="_blank"   style="text-decoration: none;color: transparent;">
+  <a href="https://www.linkedin.com/in/ramith-gunawardana" target="_blank"   style="text-decoration: none; color: #4493f800;">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
     />
   </a>
-  <img width="12" />
   <a href="https://stackoverflow.com/users/22379589" target="_blank" style="text-decoration: none; color: transparent;">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow"
