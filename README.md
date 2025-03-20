@@ -3,6 +3,7 @@
 <h3>I am a passionate Mobile Developer from Sri Lanka.</h3>
 
 <a href="https://github.com/Ramith-Gunawardana?tab=repositories" target="_self"> <img alt="Static Badge" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=flat&color=0e75b6"></a>
+<a href="https://ramith-gunawardana.github.io" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/-Website-2962FF?style=flat&color=916600"></a>
 
 <p align="left"><img src="src/mobile.gif" height="200" style="border-radius: 16px;"></p>
 
@@ -43,6 +44,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark" alt="bash logo" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare&theme=dark" alt="cloudflare logo" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" alt="docker logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=googleplayconsole&theme=dark" alt="play console logo" />
 </div>
 
 
